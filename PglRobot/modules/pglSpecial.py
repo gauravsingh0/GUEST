@@ -32,4 +32,4 @@ __help__ = """
 """
 
 
-__mod_name__ = "PglSpl"
+__mod_name__ = "Spcl"
