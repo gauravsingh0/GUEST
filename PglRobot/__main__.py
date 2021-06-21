@@ -233,11 +233,12 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="𝐕𝐂-𝐏𝐋𝐀𝐘𝐄𝐑🎸",
-                                url="https://telegra.ph/text-06-21-4",
+                                url="https://telegra.ph/text-06-21-4"
                            ),
                            InlineKeyboardButton(
                                 text="𝐂𝐇𝐈𝐓-𝐂𝐇𝐀𝐓💕",
-                                url="https://t.me/frndsXworld",
+                                 url="https://t.me/frndsXworld",
+                           ),
                         ],
                         [
                             InlineKeyboardButton(
