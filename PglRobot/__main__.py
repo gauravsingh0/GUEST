@@ -232,13 +232,12 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="𝐕𝐂-𝐏𝐋𝐀𝐘𝐄𝐑🎸",
-                                url="https://telegra.ph/text-06-21-4"
-                           ),
-                           InlineKeyboardButton(
+                                text="𝐕𝐂-𝐏𝐋𝐀𝐘𝐄𝐑🎸", url="https://telegra.ph/text-06-21-4"
+                            ),
+                            InlineKeyboardButton(
                                 text="𝐂𝐇𝐈𝐓-𝐂𝐇𝐀𝐓💕",
-                                 url="https://t.me/frndsXworld",
-                           ),
+                                url="https://t.me/frndsXworld",
+                            ),
                         ],
                         [
                             InlineKeyboardButton(
@@ -257,7 +256,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="𝐇𝐄𝐋𝐏🏷️",
-                                url="http://t.me/Misspinky_bot?start=help"
+                                url="http://t.me/Misspinky_bot?start=help",
                             ),
                         ],
                     ]
@@ -640,9 +639,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(
-                f"@{SUPPORT_CHAT}", "Pinky Is On  🔥"
-            )
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Pinky Is On  🔥")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
