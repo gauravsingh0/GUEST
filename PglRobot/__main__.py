@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {}, my name is ☬Pinky☬! 
 I am a  Powerfull  group management bot. You can find my list of available commands with /help.
-Developed by [Blaze™🇮🇳]](t.me/piroXpower)
+Developed by [Blaze™🇮🇳](t.me/piroXpower)
 """
 G_START_TEXT = """
 Hello ☬Pinky☬ Is In The Chat.
