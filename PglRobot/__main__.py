@@ -73,17 +73,17 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is ☬Pinky☬! 
+Hi {}, my name is ⚡【𝐆】【𝐔】【𝐄】【𝐒】【𝐓】⚡! 
 I am a  Powerfull  group management bot. You can find my list of available commands with /help.
-Developed by [Blaze™🇮🇳](t.me/piroXpower)
+Developed by [♕︎╚«𝐺𝑅𝐵»╝⫸༒︎᯾«𝑃𝑅♢𝐹Ξ𝑆𝑆♢𝑅»᯾༒︎](t.me/Black_heart_hacker_xon)
 """
 G_START_TEXT = """
-Hello ☬Pinky☬ Is In The Chat.
+Hello ⚡【𝐆】【𝐔】【𝐄】【𝐒】【𝐓】⚡ Is In The Chat.
 Uptime - {}!
 """
 
 HELP_STRINGS = """
-Hey there! My name is ☬Pinky☬.
+Hey there! My name is ⚡【𝐆】【𝐔】【𝐄】【𝐒】【𝐓】⚡.
 I'm a Popular For Fun and helps admins to manage their groups! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
@@ -102,12 +102,12 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-PglRobot_IMG = "https://telegra.ph/file/802ee4b0f60f6dbc09752.jpg"
+PglRobot_IMG = "https://telegra.ph/file/ed1909261c2cd97c6169d.jpg"
 
-PglRobotG_IMG = "https://telegra.ph/file/802ee4b0f60f6dbc09752.jpg"
+PglRobotG_IMG = "https://telegra.ph/file/ed1909261c2cd97c6169d.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- But ☬Pinky☬ is working on free server so no need❣️"""
+ But ⚡【𝐆】【𝐔】【𝐄】【𝐒】【𝐓】⚡ is working on free server so no need❣️"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="𝐏𝐔𝐒𝐇 𝐌𝐄 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏🔥",
+                                text="ADD ME TO YOUR GROUP",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -232,32 +232,32 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="𝐕𝐂-𝐏𝐋𝐀𝐘𝐄𝐑🎸",
-                                url="https://telegra.ph/text-06-21-4"
+                                text="CHIT-CHAT",
+                                url="https://t.me/yone_support_official"
                            ),
                            InlineKeyboardButton(
-                                text="𝐂𝐇𝐈𝐓-𝐂𝐇𝐀𝐓💕",
-                                 url="https://t.me/frndsXworld",
+                                text="FEDERATION",
+                                 url="https://t.me/gaurboofedration",
                            ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓😎",
+                                text="SUPPORT",
                                 url=f"https://t.me/{SUPPORT_CHAT}",
                             ),
                             InlineKeyboardButton(
-                                text="𝐔𝐏𝐃𝐀𝐓𝐄𝐒🗞️",
-                                url="https://t.me/patricia_updates",
+                                text="UPDATES",
+                                url="https://t.me/grb_network",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="𝐎𝐖𝐍𝐄𝐑⚡",
-                                url="https://t.me/piroXpower",
+                                text="OWNER",
+                                url="https://t.me/Black_heart_hacker_xon",
                             ),
                             InlineKeyboardButton(
-                                text="𝐇𝐄𝐋𝐏🏷️",
-                                url="http://t.me/Misspinky_bot?start=help"
+                                text="HELP",
+                                url="http://t.me/GROUP_GUEST_BOT?start=help"
                             ),
                         ],
                     ]
@@ -641,7 +641,7 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.sendMessage(
-                f"@{SUPPORT_CHAT}", "Pinky Is On  🔥"
+                f"@{SUPPORT_CHAT}", "⚡【𝐆】【𝐔】【𝐄】【𝐒】【𝐓】⚡ Is Online 🥰"
             )
         except Unauthorized:
             LOGGER.warning(
