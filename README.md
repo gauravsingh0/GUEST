@@ -7,14 +7,14 @@
 
 
 
-# <p align="left"><a href="https://github.com/iisgaurav/PglRobot"><img src="https://github-readme-stats.vercel.app/api/pin?username=IisGaurav&show_icons=true&theme=dark&hide_border=true&repo=PglRobot"></a></p><p align="centre"><a href="https://t.me/AuraXSupport"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/iisgaurav/PglRobot/stargazers"><img src="https://img.shields.io/github/stars/IisGaurav/PglRobot?style=social"></a><a href="https://github.com/iisgaurav/PglRobot/fork"><img src="https://img.shields.io/github/forks/IisGaurav/PglRobot?label=Fork&logoColor=blue&style=social"></a> <a href="https://github.com/iisgaurav/PglRobot"><img src="https://img.shields.io/github/last-commit/IisGaurav/PglRobot?style=flat-square"></a></p>
+# <p align="left"><a href="https://github.com/gauravsingh0/GUEST"><img src="https://github-readme-stats.vercel.app/api/pin?username=Black_heart_hacker_xon&show_icons=true&theme=dark&hide_border=true&repo=PglRobot"></a></p><p align="centre"><a href="https://t.me/AuraXSupport"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/iisgaurav/PglRobot/stargazers"><img src="https://img.shields.io/github/stars/IisGaurav/PglRobot?style=social"></a><a href="https://github.com/iisgaurav/PglRobot/fork"><img src="https://img.shields.io/github/forks/IisGaurav/PglRobot?label=Fork&logoColor=blue&style=social"></a> <a href="https://github.com/iisgaurav/PglRobot"><img src="https://img.shields.io/github/last-commit/IisGaurav/PglRobot?style=flat-square"></a></p>
 
 
 
 PglRobot is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
-* Bot Link:  <a href="https://t.me/PglRobot" alt="PglRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-PglRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/PglRobotUpdates" alt="PglRobot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-PglRobot%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/GROUP_GUEST_BOT" alt="GUEST"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-PglRobot-blue" /> </a>
+* News channel: <a  href="https://t.me/grb_network" alt="GUEST UPDATES"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-PglRobot%20Updates-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/IisGaurav/PglRobot?color=white&label=%F0%9F%8C%9F%20star">
 
@@ -22,8 +22,8 @@ Should you be forking this repo then do not forget to star it - <img alt="GitHub
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
- - Edit any mentions of @AuraXSupport to your own support chat. 
- - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/iisgaurav/PglRobot)
+ - Edit any mentions of @yone_support_official to your own support chat. 
+ - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/gauravsingh0/GUEST)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats.
 
 
@@ -37,7 +37,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iisgaurav/PglRobot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gauravsingh0/GUEST)
 
 </details>  
 <details>
@@ -61,7 +61,7 @@ defaults set in the sample_config, hence making it easier to upgrade.
 
 An example `config.py` file could be:
 ```
-from PglRobot.sample_config import Config
+from GUEST.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 1100735944 # your telegram ID
@@ -175,7 +175,7 @@ All that is needed is that your .py file is in the modules folder.
 
 To add commands, make sure to import the dispatcher via
 
-`from PglRobot import dispatcher`.
+`from GUEST import dispatcher`.
 
 You can then add commands using the usual
 
@@ -195,15 +195,15 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-`python3 -m PglRobot`
+`python3 -m GUEST`
 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [PglRobot Support](https://t.me/PglRbotSupport)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [GRB SUPPORT](https://t.me/yone_support_official)
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iisgaurav/PglRobot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gauravsingh0/GUEST) 
 
 
 ## CREDITS 📍
