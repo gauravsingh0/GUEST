@@ -7,14 +7,14 @@
 
 
 
-# <p align="left"><a href="https://github.com/gauravsingh0/GUEST"><img src="https://github-readme-stats.vercel.app/api/pin?username=Black_heart_hacker_xon&show_icons=true&theme=dark&hide_border=true&repo=PglRobot"></a></p><p align="centre"><a href="https://t.me/AuraXSupport"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/iisgaurav/PglRobot/stargazers"><img src="https://img.shields.io/github/stars/IisGaurav/PglRobot?style=social"></a><a href="https://github.com/iisgaurav/PglRobot/fork"><img src="https://img.shields.io/github/forks/IisGaurav/PglRobot?label=Fork&logoColor=blue&style=social"></a> <a href="https://github.com/iisgaurav/PglRobot"><img src="https://img.shields.io/github/last-commit/IisGaurav/PglRobot?style=flat-square"></a></p>
+# <p align="left"><a href="https://github.com/gauravsingh0/GUEST"><img src="https://github-readme-stats.vercel.app/api/pin?username=Black_heart_hacker_xon&show_icons=true&theme=dark&hide_border=true&repo=GUEST"></a></p><p align="centre"><a href="https://t.me/yone_support_official"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/gauravsingh0/GUEST/stargazers"><img src="https://img.shields.io/github/stars/gauravsingh0/GUEST?style=social"></a><a href="https://github.com/gauravsingh0/GUEST/fork"><img src="https://img.shields.io/github/forks/gauravsingh0/GUEST?label=Fork&logoColor=blue&style=social"></a> <a href="https://github.com/gauravsingh0/GUEST"><img src="https://img.shields.io/github/last-commit/gauravsingh0/GUEST?style=flat-square"></a></p>
 
 
 
 PglRobot is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
-* Bot Link:  <a href="https://t.me/GROUP_GUEST_BOT" alt="GUEST"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-PglRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/grb_network" alt="GUEST UPDATES"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-PglRobot%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/GROUP_GUEST_BOT" alt="GUEST"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-GUEST-blue" /> </a>
+* News channel: <a  href="https://t.me/grb_network" alt="GUEST UPDATES"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-GUEST%20UPDATES-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/IisGaurav/PglRobot?color=white&label=%F0%9F%8C%9F%20star">
 
