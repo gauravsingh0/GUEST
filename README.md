@@ -16,7 +16,7 @@ PglRobot is a simple one-punch solution to your group management needs and has b
 * Bot Link:  <a href="https://t.me/GROUP_GUEST_BOT" alt="GUEST"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-GUEST-blue" /> </a>
 * News channel: <a  href="https://t.me/grb_network" alt="GUEST UPDATES"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-GUEST%20UPDATES-9cf" /> </a>
 
-Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/IisGaurav/PglRobot?color=white&label=%F0%9F%8C%9F%20star">
+Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gauravsingh0/GUEST?color=white&label=%F0%9F%8C%9F%20star">
 
 
 ## How to setup/deploy.
