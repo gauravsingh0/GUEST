@@ -1,5 +1,5 @@
 {
-      "name": "PglRobot",
+      "name": "GUEST",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "PglRobot"
       ],   
-   "repository": "https://github.com/iisgaurav/PglRobot",
+   "repository": "https://github.com/gauravsingh0/GUEST",
    "addons": [
       {
          "options": {
@@ -41,16 +41,16 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1100735944"
+         "value": "1680112315"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "iisgaurav"
+         "value": "Black_heart_hacker_xon"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: PglRobot. If this ever points to PglRobot support than consider you made an enemy.",
          "required": true,
-         "value": "AuraXSupport"
+         "value": "yone_support_official"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -142,7 +142,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/gauravv03"
+         "value": ""
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
